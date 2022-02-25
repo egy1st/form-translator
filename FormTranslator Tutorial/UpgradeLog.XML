@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DC_FormTranslator">
+</Property><Property Name="Solution File" Value="I:\EgyFirst\Form Translator\FormTranslator Tutorial\DC_FormTranslator.sln">
+</Property><Property Name="User Options File" Value="I:\EgyFirst\Form Translator\FormTranslator Tutorial\DC_FormTranslator.suo">
+</Property><Property Name="Date" Value="Sunday, October 16, 2016">
+</Property><Property Name="Time" Value="3:16 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DC_FormTranslator.sln" Description="File successfully backed up as I:\EgyFirst\Form Translator\FormTranslator Tutorial\Backup\DC_FormTranslator.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DC_FormTranslator.suo" Description="File successfully backed up as I:\EgyFirst\Form Translator\FormTranslator Tutorial\Backup\DC_FormTranslator.suo">
+</Event><Event ErrorLevel="0" Project="DC_FormTranslator" Source="DC_FormTranslator.vbproj" Description="Project file successfully backed up as I:\EgyFirst\Form Translator\FormTranslator Tutorial\Backup\DC_FormTranslator.vbproj">
+</Event><Event ErrorLevel="0" Project="DC_FormTranslator" Source="DC_FormTranslator.vbproj.user" Description="Project user file successfully backed up as I:\EgyFirst\Form Translator\FormTranslator Tutorial\Backup\DC_FormTranslator.vbproj.user">
+</Event><Event ErrorLevel="0" Project="DC_FormTranslator" Source="AssemblyInfo.vb" Description="File successfully backed up as I:\EgyFirst\Form Translator\FormTranslator Tutorial\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DC_FormTranslator" Source="Form1.vb" Description="File successfully backed up as I:\EgyFirst\Form Translator\FormTranslator Tutorial\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="DC_FormTranslator" Source="Form1.resx" Description="File successfully backed up as I:\EgyFirst\Form Translator\FormTranslator Tutorial\Backup\Form1.resx">
+</Event><Event ErrorLevel="1" Project="DC_FormTranslator" Source="DC_FormTranslator.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="DC_FormTranslator" Source="DC_FormTranslator.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DC_FormTranslator" Source="DC_FormTranslator.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DC_FormTranslator.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DC_FormTranslator.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DC_FormTranslator" Source="DC_FormTranslator.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

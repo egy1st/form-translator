@@ -1,0 +1,15 @@
+G:\Form Translator\Setup\Tutorial\obj\Debug\DC_FormTranslator.vbproj.ResolveComReference.cache
+G:\Form Translator\Setup\Tutorial\bin\DC_FormTranslator.exe
+G:\Form Translator\Setup\Tutorial\bin\DC_FormTranslator.pdb
+G:\Form Translator\Setup\Tutorial\bin\DC_FormTranslator.xml
+G:\Form Translator\Setup\Tutorial\bin\AxInterop.MSDataGridLib.dll
+G:\Form Translator\Setup\Tutorial\bin\DC_FormTranslator30.dll
+G:\Form Translator\Setup\Tutorial\bin\Interop.Access.dll
+G:\Form Translator\Setup\Tutorial\bin\Interop.DAO.dll
+G:\Form Translator\Setup\Tutorial\bin\Interop.MSDataGridLib.dll
+G:\Form Translator\Setup\Tutorial\obj\Debug\ResolveAssemblyReference.cache
+G:\Form Translator\Setup\Tutorial\obj\Debug\TestForm.resources
+G:\Form Translator\Setup\Tutorial\obj\Debug\DC_FormTranslator.vbproj.GenerateResource.Cache
+G:\Form Translator\Setup\Tutorial\obj\Debug\DC_FormTranslator.exe
+G:\Form Translator\Setup\Tutorial\obj\Debug\DC_FormTranslator.xml
+G:\Form Translator\Setup\Tutorial\obj\Debug\DC_FormTranslator.pdb

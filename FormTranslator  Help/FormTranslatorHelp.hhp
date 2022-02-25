@@ -1,0 +1,27 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=DC Form Translator v1.0.chm
+Contents file=DataMangerHelp.hhc
+Default topic=Dynamic Components Form Translator.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=DataMangerHelp.hhk
+Language=0x409 English (United States)
+Title=DC Form Translator Help
+
+
+[FILES]
+contact us.htm
+features.htm
+how to order.htm
+license.htm
+system requirements.htm
+Overview.htm
+Deploying Form Translator COM Applications.htm
+Dynamic Components Form Translator.htm
+Including DC FormTranslator.htm
+Installing FormTranslator  COM.htm
+TranslateForm.htm
+
+[INFOTYPES]
+

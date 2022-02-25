@@ -1,0 +1,11 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling g:\Programms on D\FormTranslator\Help\DC  Form Translator v1.0.chm
+
+HHC5003: Error: Compilation failed while compiling initform.htm.
+HHC5003: Error: Compilation failed while compiling FlipForm.htm.
+
+
+The following files were not compiled:
+initform.htm
+FlipForm.htm
